@@ -9,6 +9,18 @@ body {
 
 }
 
+.top-bar a {
+    color:#005555;
+
+}
+
+.top-bar {
+    width: 100%;
+    text-align: right;
+    top: 30px;
+    position: absolute;
+}
+
 
 h1 {
     color: #1A3C40;
