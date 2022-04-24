@@ -10,8 +10,15 @@ body {
 }
 
 .top-bar a {
-    color:#005555;
+    color:#1A3C40;
+    text-decoration: none;
+    font-family: 'Monsterrat',sans-serif;
+    font-size: 18px;
 
+}
+
+.top-bar a:hover {
+    color: #4cbcc9;
 }
 
 .top-bar {
